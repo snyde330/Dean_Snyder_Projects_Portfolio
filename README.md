@@ -30,3 +30,7 @@ Github repository containing some of my personal and course projects in embedded
 9. 3D Physics Engine
 
 10. Personal LLM
+
+11. Full Stack App
+
+12. TXT Compiler
